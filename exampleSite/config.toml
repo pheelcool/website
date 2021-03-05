@@ -23,7 +23,7 @@ footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "FR"
-title = "Bigspring Hugo"
+title = "Pheel Cool"
 weight = 1
 [markup.goldmark.renderer]
 unsafe = true
