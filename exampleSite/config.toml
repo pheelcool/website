@@ -6,7 +6,7 @@ summaryLength = "15"
 theme = "bigspring"
 title = "Pheel Cool"
 [languages.de]
-contentDir = "content/deutsch"
+contentDir = "content/dutch"
 copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 footer_menu_left = "Firma"
@@ -28,57 +28,48 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
-name = "Pricing"
-url = "pricing"
-weight = 1
+name = "About Us"
+url = "#"
 [[menu.footer_left]]
 name = "Quick Start"
 url = "#"
-weight = 2
 [[menu.footer_left]]
-name = "About Us"
-url = "#"
-weight = 3
-[[menu.footer_middle]]
-name = "Features"
-url = "#"
-weight = 1
-[[menu.footer_middle]]
-name = "Platform"
-url = "#"
-weight = 2
+name = "Pricing"
+url = "pricing"
 [[menu.footer_middle]]
 name = "Pricing"
 url = "pricing"
-weight = 3
-[[menu.footer_right]]
-name = "FAQ"
-url = "faq"
-weight = 1
-[[menu.footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-weight = 2
+[[menu.footer_middle]]
+name = "Platform"
+url = "#"
+[[menu.footer_middle]]
+name = "Features"
+url = "#"
 [[menu.footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
-weight = 3
-[[menu.main]]
+[[menu.footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+[[menu.footer_right]]
 name = "FAQ"
 url = "faq"
-weight = 4
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 1
+[[menu.main]]
+name = "Pricing"
+url = "pricing"
+weight = 2
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
 [[menu.main]]
-name = "Pricing"
-url = "pricing"
-weight = 2
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
+name = "FAQ"
+url = "faq"
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
