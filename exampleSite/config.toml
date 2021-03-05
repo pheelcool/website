@@ -13,7 +13,7 @@ footer_menu_left = "Firma"
 footer_menu_middle = "Produkte"
 footer_menu_right = "Support"
 languageName = "NL"
-title = "Bigspring Hugo"
+title = "Pheel Cool"
 weight = 2
 [languages.en]
 contentDir = "content/english"
