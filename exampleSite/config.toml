@@ -84,10 +84,6 @@ name = "Privacy Policy"
 url = "privacy-policy"
 weight = 3
 [[menu.main]]
-name = "About us"
-url = "company"
-weight = 4
-[[menu.main]]
 name = "How It Works"
 url = "faq"
 weight = 2
