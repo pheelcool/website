@@ -1,8 +1,8 @@
 ####################### Banner #########################
 banner:
-  title : "We Protect the Unprotected, We Cover the Uncovered"
+  title : "Transparent, Easy, and No-bullshit Latent Defects Insurance for Cars"
   image : "images/banner-art.svg"
-  content : "Transparent, Easy, and no-bullshit Latent Defects Car Insurance."
+  content : "We Protect the Unprotected, We Cover the Uncovered"
   button:
     enable : true
     label : "Contact With Us"

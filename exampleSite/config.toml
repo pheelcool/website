@@ -14,7 +14,7 @@ footer_menu_middle = "Produkte"
 footer_menu_right = "Support"
 languageName = "DE"
 title = "Pheel Cool"
-weight = 2
+weight = 4
 [languages.en]
 contentDir = "content/english"
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
@@ -34,7 +34,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "FR"
 title = "Pheel Cool"
-weight = 3
+weight = 2
 [languages.nl]
 contentDir = "content/dutch"
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
@@ -44,7 +44,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "NL"
 title = "Pheel Cool"
-weight = 4
+weight = 3
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
