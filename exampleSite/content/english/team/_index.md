@@ -9,7 +9,7 @@ menu:
     weight: 4
 
 ---
-### Our Story
+### 
 
 ![](/images/bitmap.png)
 
