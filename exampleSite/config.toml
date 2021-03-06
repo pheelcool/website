@@ -102,7 +102,7 @@ logo = "images/logo.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
-label = "Get Started"
+label = "Start to PheelCool"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"

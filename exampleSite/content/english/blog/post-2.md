@@ -1,5 +1,5 @@
 ---
-title: "Pump-up the team morale and celebrate the excellence"
+title: "What does a latent defect insurance policy or warranty cover?"
 date: 2020-04-18T10:07:21+06:00
 # post image
 image: "images/blog/post-2.jpg"

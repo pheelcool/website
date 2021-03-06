@@ -6,7 +6,7 @@ banner:
   button:
     enable : true
     label : "Get Started"
-    link : "contact"
+    link : "faq"
 
 ##################### Feature ##########################
 feature:
@@ -20,13 +20,13 @@ feature:
       
     # feature item loop
     - name : "Clear and Transparent"
-      icon : "ti-package"
+      icon : "ti-medall"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
-      icon : "ti-alarm-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Service with heart"
+      icon : "ti-heart"
+      content : "Works with borkers you already use and love"
       
     # feature item loop
     - name : "Value For Money"
