@@ -1,8 +1,8 @@
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "We Protect the Unprotected, We Cover the Uncovered"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Transparent, Easy, and no-bullshit Latent Defects Car Insurance."
   button:
     enable : true
     label : "Contact With Us"
@@ -11,15 +11,15 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "We save your time and money from unnessary hassals"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Unique Worry free cover"
       icon : "ti-pulse"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Clear and Transparent"
       icon : "ti-package"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -34,13 +34,13 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Faster Response"
+    - name : "Fast Response"
       icon : "ti-headphone-alt"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
-      icon : "ti-cloud-up"
+    - name : "Empowered Broker Support"
+      icon : "ti-shine"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 
@@ -72,7 +72,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "A team of experienced and skilled people"
       images:
       - "images/service-2.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
