@@ -10,6 +10,9 @@ menu:
     weight: 4
 
 ---
-# Meet The Team
-Our company is led by a team of passionate business entrepreneurs specialized in insurance, finance and technology.
+###                             Our Story
+
+
 ![](/images/bitmap.png)
+
+Our company is led by a team of passionate business entrepreneurs specialized in insurance, finance and technology.
