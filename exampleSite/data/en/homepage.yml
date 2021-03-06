@@ -34,12 +34,12 @@ feature:
       content : "We make things simple, forget about buzzwords and indecipherable pricings"
       
     # feature item loop
-    - name : "Fast Response"
+    - name : "Stress-Free Response"
       icon : "ti-headphone-alt"
       content : "We do everything to make your life easier: no frustrations, no stress"
       
     # feature item loop
-    - name : "Paperless"
+    - name : "Paper-less"
       icon : "ti-shine"
       content : "You can forget about lengthy PDFs and unnecessary paperwork"
       
