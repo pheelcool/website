@@ -1,8 +1,8 @@
 ####################### Banner #########################
 banner:
-  title : "Transparent, Easy, and Simple <br> Hidden Defects Insurance<br>for Second-Hand Cars"
+  title : "We created the hidden defect insurance car buyers were looking for."
   image : "images/banner-art.svg"
-  content : "We Simply Cover the Uncovered, We Protect the Unprotected"
+  content : "Transparent, Easy, and simple Hidden Defect Insurance for Second-Hand Cars"
   button:
     enable : true
     label : "Get Started"
