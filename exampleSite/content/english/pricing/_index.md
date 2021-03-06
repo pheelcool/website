@@ -21,7 +21,7 @@ basic:
     
 professional:
   name : "For Middle Value Cars"
-  price: "$99"
+  price: "€99"
   price_per : "year"
   info : "For Cars Value between 10,000 and 20,000 euros"
   services:
@@ -31,7 +31,7 @@ professional:
   - "Best Defense"
   button:
     enable : true
-    label : "Get started for $99"
+    label : "Get started for €99"
     link : "#"
     
 business:
@@ -47,7 +47,7 @@ business:
   - "Best Defense"
   button:
     enable : true
-    label : "Get started for $199"
+    label : "Get started for €199"
     link : "#"
 
 call_to_action:
