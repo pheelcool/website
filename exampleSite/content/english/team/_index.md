@@ -11,7 +11,7 @@ menu:
 ---
 # Our story
 
-![](/images/default.png)
+![](/images/bitmap.png)
 
 #### Our company is led by a team of passionate business entrepreneurs specialized in insurance, finance and technology. 
 
