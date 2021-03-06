@@ -9,11 +9,11 @@ basic:
   name : "For Small Value Cars"
   price: "$49"
   price_per : "year"
-  info : "Best For Small Individuals"
+  info : "For Cars Value less than 10,000 euros"
   services:
-  - "Express Service"
+  - "Express Contract"
   - "No-Shit Coverage"
-  - "Time-Critical Services"
+  
   button:
     enable : true
     label : "Get started for free"
@@ -23,28 +23,28 @@ professional:
   name : "For Middle Value Cars"
   price: "$99"
   price_per : "year"
-  info : "Best For Professionals"
+  info : "For Cars Value between 10,000 and 20,000 euros"
   services:
-  - "Express Service"
+  - "Express Contract"
   - "No-Shit Coverage"
-  - "Time-Critical Services"
   - "Free Car Valuation Service"
-  - "Best Dashboard"
+  - "Best Defense"
   button:
     enable : true
     label : "Get started for $99"
     link : "#"
     
 business:
-  name : "For Pretige Cars "
+  name : "For Prestige Cars "
   price: "$199"
   price_per : "year"
-  info : "Best For Large Individuals"
+  info : "For Prestigious Individuals"
   services:
-  - "Express Service"
+  - "Express Contract"
   - "No-Shit Coverage"
+  - "Time-Critical Services"
   - "Free Car Valuation Service"
-  - "Best Dashboard"
+  - "Best Defense"
   button:
     enable : true
     label : "Get started for $199"
