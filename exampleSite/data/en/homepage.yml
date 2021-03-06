@@ -16,12 +16,12 @@ feature:
     # feature item loop
     - name : "Unique Worry-Free cover"
       icon : "ti-pulse"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Because we want to give a peace of mind when you pay for a second-hand car"
       
     # feature item loop
     - name : "Clear and Transparent"
       icon : "ti-medall"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We hate small print and unpleasant surprises. We are always here to help."
       
     # feature item loop
     - name : "Service with heart"
@@ -31,17 +31,17 @@ feature:
     # feature item loop
     - name : "Value For Money"
       icon : "ti-credit-card"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We make things simple, forget about buzzwords and indecipherable pricings"
       
     # feature item loop
     - name : "Fast Response"
       icon : "ti-headphone-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We do everything to make your life easier: no frustrations, no stress"
       
     # feature item loop
-    - name : "Empowered Support"
+    - name : "Paperless"
       icon : "ti-shine"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "You can forget about lengthy PDFs and unnecessary paperwork"
       
 
 
