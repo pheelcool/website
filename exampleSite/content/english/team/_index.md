@@ -10,5 +10,5 @@ menu:
 
 ---
 # Meet The Team
+Our company is led by a team of passionate business entrepreneurs specialized in insurance, finance and technology. We are particularly proud that first-class investment funds are interested in supporting our European development.
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
