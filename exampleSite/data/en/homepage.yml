@@ -1,8 +1,8 @@
 ####################### Banner #########################
 banner:
-  title : "Transparent, Easy, and Simple Hidden Insurance for Second Hand Cars"
+  title : "Transparent, Easy, and Simple <br> Hidden Defects Insurance for Second-Hand Cars"
   image : "images/banner-art.svg"
-  content : "Protect the Unprotected, Cover the Uncovered"
+  content : "We Protect the Unprotected, Cover the Uncovered"
   button:
     enable : true
     label : "Contact With Us"
@@ -14,7 +14,7 @@ feature:
   title : "Save your time and money from unnecessary"
   feature_item:
     # feature item loop
-    - name : "Unique Worry free cover"
+    - name : "Unique Worry-Free cover"
       icon : "ti-pulse"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -55,7 +55,7 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Our valuations are powered by data from millions of vehicles each day, so you get an accurate price that reflects the current market. It’s completely free and can be done online in minutes.They are 100% data-driven using a smart, innovative algorithm that considers numerous factors such as the vehicle’s age, mileage, spec and optional extras"
+      content : "Our valuations are powered by data from millions of vehicles each day, so you get an accurate price that reflects the current market. It’s completely free and can be done online in minutes.They are 100% data-driven using a smart, innovative algorithm that considers numerous factors such as the vehicle’s age, mileage, spec and optional extras."
       button:
         enable : true
         label : "Check it out"
@@ -82,7 +82,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "Broker powered Support"
+    - title : "Broker Powered Support"
       images:
       - "images/service-3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -94,7 +94,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "Experience the simple <br> workflow with us"
   image : "images/screenshot.svg"
 
   
