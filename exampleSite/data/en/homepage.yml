@@ -1,8 +1,8 @@
 ####################### Banner #########################
 banner:
-  title : "Transparent, Easy, and No-bullshit Latent Defects Insurance for Cars"
+  title : "Transparent, Easy, and Simple Hidden Insurance for Second Hand Cars"
   image : "images/banner-art.svg"
-  content : "We Protect the Unprotected, We Cover the Uncovered"
+  content : "Protect the Unprotected, Cover the Uncovered"
   button:
     enable : true
     label : "Contact With Us"
@@ -11,7 +11,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "We save your time and money from unnessary hassals"
+  title : "Save your time and money from unnecessary"
   feature_item:
     # feature item loop
     - name : "Unique Worry free cover"
@@ -39,7 +39,7 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Empowered Broker Support"
+    - name : "Empowered Support"
       icon : "ti-shine"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -50,19 +50,19 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Clarity and Peace of mind when you purchase a second-hand car."
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our valuations are powered by data from millions of vehicles each day, so you get an accurate price that reflects the current market. It’s completely free and can be done online in minutes.They are 100% data-driven using a smart, innovative algorithm that considers numerous factors such as the vehicle’s age, mileage, spec and optional extras"
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Transparent and comprehensive coverage, without surprises."
       images:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -82,7 +82,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Broker powered Support"
       images:
       - "images/service-3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."

@@ -1,18 +1,18 @@
 ---
-title: "Quote"
+title: "Pricing"
 subtitle: ""
 # meta description
-description: "Flat Quote Insurance by Car categories"
+description: "This is meta description"
 draft: false
 
 basic:
-  name : "For Small Value Cars"
+  name : "Basic Plan"
   price: "$49"
-  price_per : "year"
+  price_per : "month"
   info : "Best For Small Individuals"
   services:
   - "Express Service"
-  - "No-Shit Coverage"
+  - "Customs Clearance"
   - "Time-Critical Services"
   button:
     enable : true
@@ -20,39 +20,38 @@ basic:
     link : "#"
     
 professional:
-  name : "For Middle Value Cars"
-  price: "$99"
-  price_per : "year"
+  name : "Professional Plan"
+  price: "$49"
+  price_per : "month"
   info : "Best For Professionals"
   services:
   - "Express Service"
-  - "No-Shit Coverage"
+  - "Customs Clearance"
   - "Time-Critical Services"
-  - "Free Car Valuation Service"
+  - "Cloud Service"
   - "Best Dashboard"
   button:
     enable : true
-    label : "Get started for $99"
+    label : "Get started for free"
     link : "#"
     
 business:
-  name : "For Pretige Cars "
-  price: "$199"
-  price_per : "year"
+  name : "Business Plan"
+  price: "$49"
+  price_per : "month"
   info : "Best For Large Individuals"
   services:
   - "Express Service"
-  - "No-Shit Coverage"
-  - "Free Car Valuation Service"
-   - "Best Dashboard"
+  - "Customs Clearance"
+  - "Time-Critical Services"
   button:
     enable : true
-    label : "Get started for $199"
+    label : "Get started for free"
     link : "#"
 
 call_to_action:
   enable : true
-  title : "Need a quote for luxury cars?"
+  title : "Need a larger plan?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
