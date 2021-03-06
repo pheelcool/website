@@ -44,7 +44,7 @@ business:
   - "Express Service"
   - "No-Shit Coverage"
   - "Free Car Valuation Service"
-   - "Best Dashboard"
+  - "Best Dashboard"
   button:
     enable : true
     label : "Get started for $199"
