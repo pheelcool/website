@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1013.9213pt"
-   height="584.57446pt"
-   viewBox="0 0 1013.9213 584.57446"
+   width="983.28491pt"
+   height="468.87134pt"
+   viewBox="0 0 983.28491 468.87134"
    version="1.1"
    id="svg1772"
-   sodipodi:docname="banner-art.svg"
+   sodipodi:docname="CARimage_modifi_Pheel_Cool2.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <metadata
      id="metadata1778">
@@ -155,9 +155,9 @@
      inkscape:window-height="1001"
      id="namedview1774"
      showgrid="false"
-     inkscape:zoom="1.0281863"
-     inkscape:cx="609.81901"
-     inkscape:cy="388.97965"
+     inkscape:zoom="0.72703751"
+     inkscape:cx="609.62487"
+     inkscape:cy="303.2041"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -169,14 +169,15 @@
      fit-margin-bottom="0" />
   <g
      id="surface1"
-     transform="scale(1.6567342,1.7714378)">
+     transform="matrix(1.6567342,0,0,1.7714378,-33.636437,-115.70317)">
     <rect
-       x="0"
-       y="0"
-       width="612"
-       height="330"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect895" />
+       x="-613.81079"
+       y="65.315964"
+       width="593.50793"
+       height="264.68405"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.881951"
+       id="rect895"
+       transform="scale(-1,1)" />
     <path
        style="fill:#dedcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 417.33203,258.82422 -70.60937,-40.76563 c -0.9375,-0.53906 -0.82032,-1.48437 0.26171,-2.10547 l 98.38282,-56.80468 c 1.08203,-0.6211 2.71093,-0.6875 3.64453,-0.14844 l 70.61328,40.76562 c 0.93359,0.53907 0.81641,1.48047 -0.26172,2.10547 l -98.38672,56.80078 c -1.07812,0.625 -2.71094,0.69141 -3.64453,0.15235"
