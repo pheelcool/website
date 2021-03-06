@@ -3,12 +3,14 @@ title: Team
 intro_image: ''
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
+subtitle: Our Story
 menu:
   main:
     name: About
     weight: 4
 
 ---
+<<<<<<< HEAD
 # Meet The Team
 Our company is led by a team of passionate business entrepreneurs specialized in insurance, finance and technology.
 
@@ -58,3 +60,10 @@ iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
 tamen lentis spectat, Titania est animo.
+=======
+### 
+
+![](/images/bitmap.png)
+
+Our company is led by a team of passionate business entrepreneurs specialized in insurance, finance and technology. 
+>>>>>>> 6dc89369563088ef82a6b14aa1f3cfee260c44d5
