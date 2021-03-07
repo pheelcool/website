@@ -55,7 +55,7 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Our valuations are powered by data from millions of vehicles each day, so you get an accurate price that reflects the current market. It’s completely free and can be done online in minutes.They are 100% data-driven using a smart, innovative algorithm that considers numerous factors such as the vehicle’s age, mileage, spec and optional extras."
+      content : "A hidden defect is a problem that, had you been aware of it before making the purchase, would have led you:to not purchase the vehicle;or to pay a lower price.A hidden defect is present before the sale, but cannot be detected by a consumer who carefully examines the goods.If you discover a hidden defect, the vehicle vendor could be held liable and be required to compensate you.But the legal action against could take years in court. But don't worry, we get you covered."
       button:
         enable : true
         label : "Check it out"
@@ -65,7 +65,7 @@ service:
     - title : "Transparent and comprehensive coverage, without surprises."
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our valuations are powered by data from millions of vehicles each day, so you get an accurate price that reflects the current market. It’s completely free and can be done online in minutes.They are 100% data-driven using a smart, innovative algorithm that considers numerous factors such as the vehicle’s age, mileage, spec and optional extras."
       button:
         enable : true
         label : "Check it out"
@@ -75,7 +75,7 @@ service:
     - title : "A team of experienced and skilled people"
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our lawyers are experienced members of the Barreau de Bruxelles. For over 25 years, they have made it their priority to help you understand the situation you are in and help however they can. No matter what the matter, we will help you defend your rights."
       button:
         enable : true
         label : "Check it out"
@@ -104,7 +104,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Get in touch with your broker. Pheel Cool is empowered by not cold machines but by the humans you already love."
   button:
     enable : true
     label : "Contact Us"
