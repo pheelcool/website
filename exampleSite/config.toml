@@ -1,50 +1,40 @@
-baseURL = "pheelcool.netlify.app"
+baseURL = "www.pheelcool.be"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
 title = "Pheel Cool"
-[languages.de]
-contentDir = "content/deutsch"
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-languageName = "DE"
-title = "Pheel Cool"
-weight = 4
 [languages.en]
 contentDir = "content/english"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+copyright = "Design and Develop by PheelCool"
+footer_content = "PheelCool, Proud of what we do."
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "EN"
 title = "Pheel Cool"
-weight = 1
+weight = 3
 [languages.fr]
 contentDir = "content/french"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+copyright = "Design and Develop by PheelCool"
+footer_content = "PheelCool, Proud of what we do."
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "FR"
 title = "Pheel Cool"
-weight = 2
+weight = 1
 [languages.nl]
 contentDir = "content/dutch"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+copyright = "Design and Develop by PheelCool"
+footer_content = "PheelCool, Proud of what we do."
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "NL"
 title = "Pheel Cool"
-weight = 3
+weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
@@ -92,7 +82,7 @@ name = "Contact"
 url = "contact"
 weight = 5
 [[menu.main]]
-name = "Pricing"
+name = "Quote"
 url = "pricing"
 weight = 3
 [[menu.main]]

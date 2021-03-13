@@ -26,7 +26,7 @@ feature:
     # feature item loop
     - name : "Service with heart"
       icon : "ti-heart"
-      content : "Works with borkers you already use and love"
+      content : "Works with brokers you already use and love"
       
     # feature item loop
     - name : "Value For Money"
@@ -85,7 +85,7 @@ service:
     - title : "Broker Powered Support"
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Pheel Cool is empowered by not cold machines but by the humans you already love."
       button:
         enable : true
         label : "Check it out"

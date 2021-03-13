@@ -1,95 +1,94 @@
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Nous réinventons l'assurance vice caché"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Offrez vous une assurance vice caché ultra transparante, simple et humane."
   button:
     enable : true
-    label : "Contact With Us"
-    link : "contact"
+    label : "Connaître nos offres"
+    link : "faq"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Save your time and money from unnecessary"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Unique Worry-Free cover"
       icon : "ti-pulse"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Because we want to give a peace of mind when you pay for a second-hand car"
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "ti-package"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Clear and Transparent"
+      icon : "ti-medall"
+      content : "We hate small print and unpleasant surprises. We are always here to help."
       
     # feature item loop
-    - name : "24h Service"
-      icon : "ti-alarm-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Service with heart"
+      icon : "ti-heart"
+      content : "Works with brokers you already use and love"
       
     # feature item loop
     - name : "Value For Money"
       icon : "ti-credit-card"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We make things simple, forget about buzzwords and indecipherable pricings"
       
     # feature item loop
-    - name : "Faster Response"
+    - name : "Stress-Free Response"
       icon : "ti-headphone-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We do everything to make your life easier: no frustrations, no stress"
       
     # feature item loop
-    - name : "Cloud Support"
-      icon : "ti-cloud-up"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Paper-less"
+      icon : "ti-shine"
+      content : "You can forget about lengthy PDFs and unnecessary paperwork"
       
-
 
 ######################### Service #####################
 service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Clarity and Peace of mind when you purchase a second-hand car."
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "A hidden defect is a problem that, had you been aware of it before making the purchase, would have led you:to not purchase the vehicle;or to pay a lower price.A hidden defect is present before the sale, but cannot be detected by a consumer who carefully examines the goods.If you discover a hidden defect, the vehicle vendor could be held liable and be required to compensate you.But the legal action against could take years in court. But don't worry, we get you covered."
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "faq"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Transparent and comprehensive coverage, without surprises."
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our valuations are powered by data from millions of vehicles each day, so you get an accurate price that reflects the current market. It’s completely free and can be done online in minutes.They are 100% data-driven using a smart, innovative algorithm that considers numerous factors such as the vehicle’s age, mileage, spec and optional extras."
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "faq"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "A team of experienced and skilled people"
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our lawyers have made it their priority to help you understand the situation you are in and help however they can. We will help you defend your rights."
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "faq"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Broker Powered Support"
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Pheel Cool is empowered by not cold machines but by the humans you already love."
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "faq"
         
 ################### Screenshot ########################
 screenshot:
@@ -104,7 +103,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Get insured via your broker"
   button:
     enable : true
     label : "Contact Us"
