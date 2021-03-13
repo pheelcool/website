@@ -5,16 +5,6 @@ paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
 title = "Pheel Cool"
-[languages.en]
-contentDir = "content/english"
-copyright = "Design and Develop by PheelCool"
-footer_content = "PheelCool, Proud of what we do."
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
-languageName = "EN"
-title = "Pheel Cool"
-weight = 3
 [languages.fr]
 contentDir = "content/french"
 copyright = "Design and Develop by PheelCool"
@@ -35,6 +25,16 @@ footer_menu_right = "Support"
 languageName = "NL"
 title = "Pheel Cool"
 weight = 2
+[languages.en]
+contentDir = "content/english"
+copyright = "Design and Develop by PheelCool"
+footer_content = "PheelCool, Proud of what we do."
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+languageName = "EN"
+title = "Pheel Cool"
+weight = 3
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
@@ -89,6 +89,10 @@ weight = 3
 name = "Why PheelCool"
 url = "blog"
 weight = 1
+[[menu.main]]
+name = "About Us"
+url = "about"
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"

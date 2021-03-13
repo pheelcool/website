@@ -1,6 +1,6 @@
 ####################### Banner #########################
 banner:
-  title : "Nous réinventons l'assurance vice caché"
+  title : "Nous réinventons l'assurance <br> vice caché"
   image : "images/banner-art.svg"
   content : "Offrez vous une assurance vice caché ultra transparante, simple et humane."
   button:
@@ -103,7 +103,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Get insured via your broker"
+  content : "Get insured via your broker."
   button:
     enable : true
     label : "Contact Us"
