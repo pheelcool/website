@@ -1,6 +1,5 @@
 ---
-title: If an Architect built a non-solid house, and conditions. if this house fell
-  down and killed its owner, the Architect will receive Death Penalty.
+title: Second hand car market
 date: '2020-04-18T10:07:21.000+06:00'
 image: images/blog/post-6.jpg
 type: regular
