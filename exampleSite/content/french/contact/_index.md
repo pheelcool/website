@@ -8,8 +8,4 @@ draft: false
 
 
 ### Do you want to know more?
-
-If you have questions about our services or just simply want to get in touch, don’t hesitate to contact us!
-
-* **Mail: info@pheelcool.be**
-* **Address: Rue Brederode 16, 1000 Bruxelles**
+<div class="typeform-widget" data-url="https://form.typeform.com/to/xGy5EJ?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
