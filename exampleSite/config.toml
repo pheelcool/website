@@ -90,8 +90,8 @@ name = "How It Works"
 url = "faq"
 weight = 2
 [[menu.main]]
-name = "Simulation"
-url = "#"
+name = "Contact"
+url = "contact"
 weight = 5
 [[menu.main]]
 name = "Quote"
@@ -102,8 +102,8 @@ name = "Why PheelCool"
 url = "blog"
 weight = 1
 [[menu.main]]
-name = "Simulation"
-url = "#"
+name = "About Us"
+url = "about"
 weight = 4
 [params]
 author = "Themefisher"
